@@ -2,6 +2,10 @@
 
 This is is a simple solution to handle passing of database credentials in Node.js to connect to MongoDB.
 
+![version](https://img.shields.io/badge/version-0.0.1-blue)
+![build](https://img.shields.io/badge/build-passing-success)
+![license](https://img.shields.io/badge/license-MIT-green)
+
 # Installation / Configuration
 
 1. Install the npm package, "dotenv"
